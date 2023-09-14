@@ -15,7 +15,7 @@ The results obtained from the various models and techniques employed in this stu
 particularly in the domain of biomedical data analysis. These findings underscore the significant positive impact that abbreviation disambiguation has on enhancing the accuracy and reliability
 of predictive models, as observed across multiple scenarios
 
-For Classification we have use three diferrent types with 5 different models
+For Classification we have use three diferrent types with 5 different models  
 Zero-shot classification - facebook/bart-large-mnli and cross-encoder/nli-roberta-base
 SVM (Support Vector Machines)
 Fine-tuning BERT models - bert-base-uncased and emilyalsentzer/Bio-ClinicalBERT
